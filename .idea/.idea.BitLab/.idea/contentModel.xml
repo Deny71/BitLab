@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Deny\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Deny\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BitLab.-2111108539.00" t="ExcludeRecursive" />
+    <e p="D:\Program Files\BitLab\BitLab-master2\BitLab-master" t="IncludeFlat">
+      <e p="BitLab" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BitLab.csproj" t="IncludeRecursive" />
+        <e p="DNS" t="Include">
+          <e p="DNS.cs" t="Include" />
+          <e p="DnsHelperExtension.cs" t="Include" />
+          <e p="PeersHelperExtension.cs" t="Include" />
+        </e>
+        <e p="Message" t="Include">
+          <e p="FunctionCenter.cs" t="Include" />
+          <e p="IMessageListener.cs" t="Include" />
+          <e p="IncomingMessage.cs" t="Include" />
+          <e p="Message.cs" t="Include" />
+          <e p="MessageCenter.cs" t="Include" />
+          <e p="MessageCreator.cs" t="Include" />
+          <e p="Payload.cs" t="Include" />
+          <e p="PayloadAttribute.cs" t="Include" />
+          <e p="Scope.cs" t="Include" />
+          <e p="VerAck.cs" t="Include" />
+        </e>
+        <e p="Node" t="Include">
+          <e p="BeetwenMessageListener.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+          <e p="NodeListener.cs" t="Include" />
+          <e p="NodeStatus.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="BitLab.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Serializator" t="Include">
+          <e p="BitcoinStream.cs" t="Include" />
+          <e p="ISerializable.cs" t="Include" />
+        </e>
+      </e>
+      <e p="BitLab.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
